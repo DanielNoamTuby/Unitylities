@@ -1,2 +1,2 @@
 # Unitylities
-Unity C# Utilities Classes.
+Collection of Unity utilities and systems in C#.
